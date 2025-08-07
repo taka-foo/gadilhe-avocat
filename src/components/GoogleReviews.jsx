@@ -61,7 +61,7 @@ export function GoogleReviews({ className }) {
 
         <FadeIn className="mt-12 text-center">
           <a
-            href="https://www.google.com/maps/place/Cabinet+Maître+Julia+GADILHE"
+            href="https://share.google/R7C6Jxbl6z7snR0OR"
             target="_blank"
             rel="noopener noreferrer"
             className="rounded-full bg-neutral-950 px-6 py-3 text-sm font-semibold text-white transition hover:bg-neutral-800"
